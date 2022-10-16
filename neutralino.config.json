@@ -4,7 +4,7 @@
   "defaultMode": "window",
   "port": 0,
   "documentRoot": "/resources/",
-  "url": "web.whatsapp.com",
+  "url": "https://web.whatsapp.com",
   "enableServer": true,
   "enableNativeAPI": true,
   "tokenSecurity": "one-time",
