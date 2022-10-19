@@ -1,5 +1,5 @@
 # Whatsappeo
-[![GitHub issues](https://img.shields.io/github/issues/Psycho649/appeo)](https://github.com/Psycho649/Whatsappeo/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Psycho649/Whatsappeo)](https://github.com/Psycho649/Whatsappeo/issues)
 ![GitHub watchers](https://img.shields.io/github/watchers/Psycho649/Whatsappeo?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Psycho649/Whatsappeo?style=social)
 [![Github License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
