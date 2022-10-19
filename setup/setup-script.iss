@@ -30,6 +30,7 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Source: "C:\Users\Blocky\Documents\GitHub\Whatsappeo\dist\Whatsappeo\Whatsappeo-win_x64.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Blocky\Documents\GitHub\Whatsappeo\neutralino.config.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Blocky\Documents\GitHub\Whatsappeo\dist\Whatsappeo\WebView2Loader.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Blocky\Documents\GitHub\Whatsappeo\dist\resources.neu"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
